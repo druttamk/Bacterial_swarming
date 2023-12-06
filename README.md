@@ -1,4 +1,4 @@
-# Bacterial_swarming
+# Bacterial swarming
 
 
 This repository contains a COMSOL Multiphysics simulation file for bacterial swarming patterns on solid surfaces.
